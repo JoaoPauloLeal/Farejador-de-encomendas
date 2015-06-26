@@ -1,0 +1,25 @@
+C:\Users\Péterson\Documents\Visual Studio 2013\Projects\MeusPacotes\MeusPacotes\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Péterson\Documents\Visual Studio 2013\Projects\MeusPacotes\MeusPacotes\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Péterson\Documents\Visual Studio 2013\Projects\MeusPacotes\MeusPacotes\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Péterson\Documents\Visual Studio 2013\Projects\MeusPacotes\MeusPacotes\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Péterson\Documents\Visual Studio 2013\Projects\MeusPacotes\MeusPacotes\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Péterson\Documents\Visual Studio 2013\Projects\MeusPacotes\MeusPacotes\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Péterson\Documents\Visual Studio 2013\Projects\MeusPacotes\MeusPacotes\Bin\Debug\MeusPacotes.dll
+C:\Users\Péterson\Documents\Visual Studio 2013\Projects\MeusPacotes\MeusPacotes\Bin\Debug\MeusPacotes.pdb
+C:\Users\Péterson\Documents\Visual Studio 2013\Projects\MeusPacotes\MeusPacotes\Bin\Debug\AppManifest.xaml
+C:\Users\Péterson\Documents\Visual Studio 2013\Projects\MeusPacotes\MeusPacotes\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Péterson\Documents\Visual Studio 2013\Projects\MeusPacotes\MeusPacotes\Bin\Debug\MeusPacotes_Debug_AnyCPU.xap
+C:\Users\Péterson\Documents\Visual Studio 2013\Projects\MeusPacotes\MeusPacotes\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Péterson\Documents\Visual Studio 2013\Projects\MeusPacotes\MeusPacotes\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Péterson\Documents\Visual Studio 2013\Projects\MeusPacotes\MeusPacotes\obj\Debug\Farejador de Encomendas.csprojResolveAssemblyReference.cache
+C:\Users\Péterson\Documents\Visual Studio 2013\Projects\MeusPacotes\MeusPacotes\obj\Debug\App.g.cs
+C:\Users\Péterson\Documents\Visual Studio 2013\Projects\MeusPacotes\MeusPacotes\obj\Debug\MainPage.g.cs
+C:\Users\Péterson\Documents\Visual Studio 2013\Projects\MeusPacotes\MeusPacotes\obj\Debug\Paginas\DadosEncomenda.g.cs
+C:\Users\Péterson\Documents\Visual Studio 2013\Projects\MeusPacotes\MeusPacotes\obj\Debug\Paginas\MinhasEncomendas.g.cs
+C:\Users\Péterson\Documents\Visual Studio 2013\Projects\MeusPacotes\MeusPacotes\obj\Debug\Paginas\Sobre.g.cs
+C:\Users\Péterson\Documents\Visual Studio 2013\Projects\MeusPacotes\MeusPacotes\obj\Debug\MeusPacotes.g.resources
+C:\Users\Péterson\Documents\Visual Studio 2013\Projects\MeusPacotes\MeusPacotes\obj\Debug\MeusPacotes.Resources.AppResources.resources
+C:\Users\Péterson\Documents\Visual Studio 2013\Projects\MeusPacotes\MeusPacotes\obj\Debug\Farejador de Encomendas.csproj.GenerateResource.Cache
+C:\Users\Péterson\Documents\Visual Studio 2013\Projects\MeusPacotes\MeusPacotes\obj\Debug\MeusPacotes.dll
+C:\Users\Péterson\Documents\Visual Studio 2013\Projects\MeusPacotes\MeusPacotes\obj\Debug\MeusPacotes.pdb
+C:\Users\Péterson\Documents\Visual Studio 2013\Projects\MeusPacotes\MeusPacotes\obj\Debug\XapCacheFile.xml
